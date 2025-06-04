@@ -1,1 +1,2 @@
-# puzzle-app
+Flask==2.3.2
+gunicorn
